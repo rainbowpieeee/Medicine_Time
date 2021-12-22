@@ -7,4 +7,6 @@
 # Документы
 * [Видение](documents/Vision.md)
 * [Use-case](documents/Use_case.png)
-* [Модель предметной области](documents/Model.png)
+* [Модель предметной области](documents/Model.md)
+* [Пример интерфейса](documents/Interface.jpg)
+* [Сценарий](documents/SequenceDiagram.md)
